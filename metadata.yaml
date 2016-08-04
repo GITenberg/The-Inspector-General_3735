@@ -1,0 +1,38 @@
+_repo: The-Inspector-General_3735
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Seltzer, Thomas
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '5085'
+    url: http://www.gutenberg.org/2009/agents/5085
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Drama'
+- !lcsh 'Russian drama -- Translations into English'
+- !lcsh 'Comedies'
+- !lcc 'PG'
+- GITenberg
+title: The Inspector-General
+url: http://www.gutenberg.org/ebooks/3735
